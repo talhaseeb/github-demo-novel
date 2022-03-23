@@ -1,1 +1,2 @@
 This file contains data about the characters: Nick, Tom, Daisy and Jordan
+More details about other characters
